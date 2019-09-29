@@ -64,3 +64,4 @@ typings/
 .sonarlit
 .vscode
 dist
+*.iml
